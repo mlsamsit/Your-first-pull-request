@@ -8,5 +8,5 @@ Steps for open source contribution
 5) Give a message <code>git commit -m "message"</code>
 6) Push the changes <code>git push</code>
 7) Create a pull request
-8) Congracts !! you have created your first Pull request.
+8) Congractulation !! you have created your first Pull request.
 
